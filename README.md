@@ -18,7 +18,7 @@ NextJs-Blog is a feature-rich, modern blogging platform built with cutting-edge 
 - Media Integration: Uploadcare for blog cover photo uploads
 - Interactive Comments: Nested comment system
 - Social Features: Follow/unfollow users to curate feed
-- Content Discovery: Browse blogs by tags and use AI-powered tag suggestions
+- Content Discovery: Browse blogs by tags and use tag suggestions
 - Infinite Scrolling: Content loading with react-intersection-observer
 - Responsive Design: Fully responsive layout using Tailwind CSS
 - Animations: UI transitions powered by Framer Motion
